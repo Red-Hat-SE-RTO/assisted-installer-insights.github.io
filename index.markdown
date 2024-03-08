@@ -3,7 +3,6 @@ layout: default
 title: Assisted Installer Insights
 ---
 
-# Assisted Installer Insights - Welcome
 
 Welcome to **Assisted Installer Insights**, your one-stop destination for deploying OpenShift 4 using the Assisted Installer. Dive into our curated resources, tutorials, and insights designed specifically for various platforms, including Libvirt/KVM, Nutanix AHV, VMWare, and Bare Metal installations.
 
@@ -22,7 +21,7 @@ Please ensure that your contributions follow our [contributing guidelines](CONTR
 
 To contribute a tutorial for Bare Metal installations, create a new markdown file in the `_baremetal` directory. For example, you can create a file named `2024-03-07-sample.markdown` with the following content:
 
-```markdown
+{% highlight bash %}
 ---
 layout: default
 title: Sample Bare Metal Tutorial
@@ -43,15 +42,12 @@ This is a sample tutorial for deploying OpenShift on Bare Metal using the Assist
 ## Steps
 
 1. Install the Assisted Installer on the Bare Metal server.
-2. Create a hostgroup for the Bare Metal server.
-3. Add the Bare Metal server to the hostgroup.
-4. Create a cluster on the Bare Metal server.
-5. Verify the cluster deployment.
+2. ...
 
 ## Conclusion
 
 This tutorial demonstrated how to deploy OpenShift on Bare Metal using the Assisted Installer.
-```
+{% endhighlight %}
 
 This tutorial will be available at `/bare-metal/sample-tutorial/` after it is merged into the `main` branch.
 

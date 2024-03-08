@@ -34,10 +34,7 @@ This is a sample tutorial for deploying OpenShift on Bare Metal using the Assist
 ## Steps
 
 1. Install the Assisted Installer on the Bare Metal server.
-2. Create a hostgroup for the Bare Metal server.
-3. Add the Bare Metal server to the hostgroup.
-4. Create a cluster on the Bare Metal server.
-5. Verify the cluster deployment.
+2. ...
 
 ## Conclusion
 
