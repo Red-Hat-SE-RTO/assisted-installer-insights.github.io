@@ -1,0 +1,31 @@
+- name: Home
+  link: /
+- name: Bare Metal
+  link: /baremetal/
+  items:
+    - name: Bare Metal Collection
+      link: /baremetal/
+- name: KVM
+  link: /kvm/
+  items:
+    - name: KVM Collection
+      link: /kvm/
+- name: Nutanix
+  link: /nutanix/
+  items:
+    - name: Nutanix Collection
+      link: /nutanix/
+- name: VMware
+  link: /vmware/
+  items:
+    - name: VMware Collection
+      link: /vmware/
+- name: Guides and How-To's
+  link: #
+  items:
+    - name: How to Use the OpenShift Assisted Installer
+      link: https://www.redhat.com/en/blog/how-to-use-the-openshift-assisted-installer
+    - name: Page Without Sidebar
+      link: /page-2/
+    - name: Page With Menubar
+      link: /page-3/
