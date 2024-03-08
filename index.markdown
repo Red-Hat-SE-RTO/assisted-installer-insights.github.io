@@ -7,53 +7,6 @@ title: Assisted Installer Insights
 
 Welcome to **Assisted Installer Insights**, your one-stop destination for deploying OpenShift 4 using the Assisted Installer. Dive into our curated resources, tutorials, and insights designed specifically for various platforms, including Libvirt/KVM, Nutanix AHV, VMWare, and Bare Metal installations.
 
-## Table of Contents
-
-- [Assisted Installer Insights - Welcome](#assisted-installer-insights---welcome)
-  - [Table of Contents](#table-of-contents)
-  - [Getting Started](#getting-started)
-    - [Libvirt/KVM](#libvirtkvm)
-    - [Nutanix AHV](#nutanix-ahv)
-    - [VMWare](#vmware)
-    - [Bare Metal](#bare-metal)
-  - [Guides and How-To's](#guides-and-how-tos)
-  - [How to Contribute](#how-to-contribute)
-    - [Sample Bare Metal Tutorial](#sample-bare-metal-tutorial)
-
-## Getting Started
-
-To get started with Assisted Installer Insights, choose a platform below:
-
-### Libvirt/KVM
-
-* [Libvirt/KVM Introduction](#)
-* [Libvirt/KVM Tutorial](#)
-* [Libvirt/KVM Best Practices](#)
-
-### Nutanix AHV
-
-* [Nutanix AHV Introduction](#)
-* [Nutanix AHV Tutorial](#)
-* [Nutanix AHV Best Practices](#)
-
-### VMWare
-
-* [VMWare Introduction](#)
-* [VMWare Tutorial](#)
-* [VMWare Best Practices](#)
-
-### Bare Metal
-
-* [Bare Metal Introduction](#)
-* [Bare Metal Tutorial](#)
-* [Bare Metal Best Practices](#)
-
-## Guides and How-To's
-
-For resources and guides related to OpenShift deployment on cloud platforms, please visit the following links:
-
-* [How to Use the OpenShift Assisted Installer](https://www.redhat.com/en/blog/how-to-use-the-openshift-assisted-installer)
-
 ## How to Contribute
 
 We welcome contributions to the Assisted Installer Insights repository! To contribute, follow these steps:
