@@ -1,5 +1,3 @@
-- name: Home
-  link: /
 - name: Bare Metal
   link: /baremetal/
   items:
@@ -22,7 +20,7 @@
       link: /vmware/
 - name: Guides and How-To's
   link: #
-  items:
+  dropdown:
     - name: How to Use the OpenShift Assisted Installer
       link: https://www.redhat.com/en/blog/how-to-use-the-openshift-assisted-installer
     - name: Page Without Sidebar
