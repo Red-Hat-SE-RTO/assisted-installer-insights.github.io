@@ -16,7 +16,7 @@ Welcome to **Assisted Installer Insights**, your one-stop destination for deploy
     - [Nutanix AHV](#nutanix-ahv)
     - [VMWare](#vmware)
     - [Bare Metal](#bare-metal)
-  - [Gudes and How-To's](#gudes-and-how-tos)
+  - [Guides and How-To's](#guides-and-how-tos)
   - [How to Contribute](#how-to-contribute)
     - [Sample Bare Metal Tutorial](#sample-bare-metal-tutorial)
 
@@ -48,7 +48,7 @@ To get started with Assisted Installer Insights, choose a platform below:
 * [Bare Metal Tutorial](#)
 * [Bare Metal Best Practices](#)
 
-## Gudes and How-To's
+## Guides and How-To's
 
 For resources and guides related to OpenShift deployment on cloud platforms, please visit the following links:
 
