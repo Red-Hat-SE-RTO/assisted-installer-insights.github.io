@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: VMware Installation Types for OpenShift Assisted Installer
 permalink: /vmware/
 ---
