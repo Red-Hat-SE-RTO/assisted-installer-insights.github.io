@@ -21,7 +21,7 @@
 - name: Guides and How-To's
   link: #
   dropdown:
-    - name: How to Use the OpenShift Assisted Installer
-      link: https://www.redhat.com/en/blog/how-to-use-the-openshift-assisted-installer
     - name: Guides and How-To's
       link: /guides/
+    - name: How to Use the OpenShift Assisted Installer
+      link: https://www.redhat.com/en/blog/how-to-use-the-openshift-assisted-installer
