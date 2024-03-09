@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Guides and How-To's for OpenShift Assisted Installer
 permalink: /posts/
 ---
@@ -12,6 +12,6 @@ Welcome to our Guides and How-To's page for OpenShift Assisted Installer
 
 Below is a list of Guides and How-To's for OpenShift Assisted Installer we've put together:
 
-{% for post in site.posts %}
+{% for page in site.posts %}
   - [{{ page.title }}]({{ page.url | prepend: site.baseurl }}) 
 {% endfor %}
