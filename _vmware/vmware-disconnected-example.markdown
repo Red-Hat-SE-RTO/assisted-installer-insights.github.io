@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  " OpenShift Agent Based Installer Helper  on VMware vSphere in a Disconnected Environment"
+title:  "OpenShift Agent Based Installer Helper  on VMware vSphere in a Disconnected Environment"
 date:   2024-03-07 20:52:41 +0000
 categories: jekyll update
 ---
+
 # OpenShift Agent Based Installer Helper  on VMware vSphere in a Disconnected Environment
 
-This repo holds some utilities to easily leverage the OpenShift Agent Based Installer.  Supports vSpher 3 Node/HA configurations.
 
 ## Prerequisites
 
