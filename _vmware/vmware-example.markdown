@@ -7,6 +7,7 @@ categories: jekyll update
 
 # OpenShift Agent Based Installer Helper  on VMware vSphere
 
+Git Repository: [https://github.com/Red-Hat-SE-RTO/openshift-agent-install](https://github.com/Red-Hat-SE-RTO/openshift-agent-install)
 
 ## Prerequisites
 
