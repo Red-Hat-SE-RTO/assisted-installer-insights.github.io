@@ -27,3 +27,5 @@
       link: /page-2/
     - name: Page With Menubar
       link: /page-3/
+- name: Blog
+  link: /_posts/
