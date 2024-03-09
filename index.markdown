@@ -21,7 +21,7 @@ Please ensure that your contributions follow our [contributing guidelines](CONTR
 
 To contribute a tutorial for Bare Metal installations, create a new markdown file in the `_baremetal` directory. For example, you can create a file named `2024-03-07-sample.markdown` with the following content:
 
-{% highlight bash %}
+```markdown
 ---
 layout: default
 title: Sample Bare Metal Tutorial
@@ -44,10 +44,11 @@ This is a sample tutorial for deploying OpenShift on Bare Metal using the Assist
 1. Install the Assisted Installer on the Bare Metal server.
 2. ...
 
+
 ## Conclusion
 
 This tutorial demonstrated how to deploy OpenShift on Bare Metal using the Assisted Installer.
-{% endhighlight %}
+```
 
 This tutorial will be available at `/bare-metal/sample-tutorial/` after it is merged into the `main` branch.
 
