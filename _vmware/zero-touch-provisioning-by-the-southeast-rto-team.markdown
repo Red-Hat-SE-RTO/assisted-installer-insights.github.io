@@ -14,6 +14,9 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
+
+{% include youtube.html video="K-PYMlh5aGs" %}
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
