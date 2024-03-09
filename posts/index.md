@@ -12,6 +12,6 @@ Welcome to our Guides and How-To's page for OpenShift Assisted Installer
 
 Below is a list of Guides and How-To's for OpenShift Assisted Installer we've put together:
 
-{% for page in site.posts %}
-  - [{{ page.title }}]({{ page.url | prepend: site.baseurl }}) 
+{% for post in site.posts %}
+  - [{{ post.title }}]({{ post.url | prepend: site.baseurl }}) 
 {% endfor %}

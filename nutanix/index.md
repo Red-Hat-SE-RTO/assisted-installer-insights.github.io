@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Nutanix Installation Types for OpenShift Assisted Installer
 permalink: /nutainx/
 ---

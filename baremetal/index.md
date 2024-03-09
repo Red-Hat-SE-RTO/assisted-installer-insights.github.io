@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Bare Metal Installation Types for OpenShift Assisted Installer
 permalink: /baremetal/
 ---

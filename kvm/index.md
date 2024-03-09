@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Libvirt/KVM Installation Types for OpenShift Assisted Installer
 permalink: /kvm/
 ---
