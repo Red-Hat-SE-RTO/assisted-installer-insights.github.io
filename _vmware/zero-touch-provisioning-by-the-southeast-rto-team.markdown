@@ -6,7 +6,7 @@ categories: vshpere
 ---
 # Zero Touch Provisioning by the Southeast RTO Team
 
-Git Repository: https://github.com/Red-Hat-SE-RTO/openshift-ztp/tree/main
+Git Repository: [https://github.com/Red-Hat-SE-RTO/openshift-ztp/tree/main](https://github.com/Red-Hat-SE-RTO/openshift-ztp/tree/main)
 
 ![ansible-lint](https://github.com/Red-Hat-SE-RTO/openshift-ztp/actions/workflows/lint-ansible.yml/badge.svg) ![EE Build & Deploy](https://github.com/Red-Hat-SE-RTO/openshift-ztp/actions/workflows/build-ee.yml/badge.svg)
 
