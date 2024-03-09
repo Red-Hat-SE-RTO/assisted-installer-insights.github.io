@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Demo of Red Hat OpenShift Assisted Installer"
 date:   2024-03-07 20:52:41 +0000
 categories: youtube videos
