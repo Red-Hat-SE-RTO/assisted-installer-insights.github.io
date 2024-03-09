@@ -48,6 +48,9 @@ collections:
   vmware:
     output: true
     permalink: /vmware/:path/
+  posts:
+    output: true
+    permalink: /posts/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
