@@ -63,7 +63,7 @@ openshift-install agent wait-for install-complete --dir ./generated_manifests/<c
 
 You'll need to provide it some variables such as the following: Plase us the `examples` url  for reference as it may be updated.
 
-**YAML LOCATION:** https://github.com/Red-Hat-SE-RTO/openshift-agent-install/blob/main/examples/vmware-disconnected-example/cluster.yml
+[vmware-disconnected-example/cluster.yml](https://github.com/Red-Hat-SE-RTO/openshift-agent-install/blob/main/examples/vmware-disconnected-example/cluster.yml)
 
 #### General Configuration Variables
 
@@ -272,9 +272,9 @@ additional_trust_bundle: |
   -----END CERTIFICATE-----
 ```
 
-**YAML LOCATION:** https://github.com/Red-Hat-SE-RTO/openshift-agent-install/blob/main/examples/vmware-disconnected-example/nodes.yml
 
 #### HA Cluster Deployment
+[vmware-disconnected-example/nodes.yml](https://github.com/Red-Hat-SE-RTO/openshift-agent-install/blob/main/examples/vmware-disconnected-example/nodes.yml)
 
 ```yaml=
 # Node Counts the installer will expect
