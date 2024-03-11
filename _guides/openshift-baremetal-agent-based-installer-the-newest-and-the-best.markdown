@@ -4,6 +4,7 @@ title:  "OpenShift Baremetal - Agent Based Installer - the newest and the best"
 date:   2024-03-11 20:52:41 +0000
 categories: Agent-based
 ---
+Agent-based installation is a subcommand of the OpenShift Container Platform installer. 
 
 Official Documentation - https://docs.openshift.com/container-platform/4.14/installing/installing_with_agent_based_installer/preparing-to-install-with-agent-based-installer.html
 Agent Based Installer - https://console.redhat.com/openshift/install/metal/agent-based
