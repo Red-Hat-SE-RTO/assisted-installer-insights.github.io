@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OpenShift Baremetal - Agent Based Installer - the newest and the best?"
+title:  "OpenShift Baremetal - Agent Based Installer - the newest and the best"
 date:   2024-03-11 20:52:41 +0000
 categories: Agent-based
 ---
