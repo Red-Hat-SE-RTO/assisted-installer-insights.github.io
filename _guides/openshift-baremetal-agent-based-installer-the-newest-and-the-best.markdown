@@ -4,10 +4,10 @@ title:  "OpenShift Baremetal - Agent Based Installer - the newest and the best?"
 date:   2024-03-11 20:52:41 +0000
 categories: Agent-based
 ---
-Official Documentation - https://docs.openshift.com/container-...
-Agent Based Installer - https://console.redhat.com/openshift/...
-Install-config and Agent-config used in this video - https://github.com/OOsemka/trusted-advisor/tree/main/Agent-based-installer-configs
 
+Official Documentation - https://docs.openshift.com/container-platform/4.14/installing/installing_with_agent_based_installer/preparing-to-install-with-agent-based-installer.html
+Agent Based Installer - https://console.redhat.com/openshift/install/metal/agent-based
+Install-config and Agent-config used in this video - https://github.com/OOsemka/trusted-advisor/tree/main/Agent-based-installer-configs
 
 
 {% include youtube.html video="tlbPM6Mk3xo" %}
