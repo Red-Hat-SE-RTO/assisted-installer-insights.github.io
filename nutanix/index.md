@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nutanix Installation Types for OpenShift Assisted Installer
-permalink: /nutainx/
+permalink: /nutanix/
 ---
 
 # Nutanix Installation Types for OpenShift Assisted Installer
