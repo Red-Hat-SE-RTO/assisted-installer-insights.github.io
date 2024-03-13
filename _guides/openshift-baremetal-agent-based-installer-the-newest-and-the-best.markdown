@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "OpenShift Baremetal Agent Based Installer the newest and the best?"
 categories: Agent-based
 ---
