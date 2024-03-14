@@ -299,7 +299,7 @@ nodes:
       #deviceName: /dev/nvme0n1
     interfaces:
       - name: ens192
-        mac_address: "{{ node_one_mac }}"
+        mac_address: '{{ node_one_mac }}'
     networkConfig:
       interfaces:
         - name: ens192
