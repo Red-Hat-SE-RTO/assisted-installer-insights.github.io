@@ -69,7 +69,7 @@ You'll need to provide it some variables such as the following: Plase us the `ex
 
 #### General Configuration Variables
 
-```yaml=
+{% highlight yaml %}
 # pull_secret path is the path to the pull-secret for the cluster
 pull_secret_path: ~/ocp-install-pull-secret.json
 
@@ -272,13 +272,13 @@ additional_trust_bundle: |
   LSMk1f3L54UjG+iMyolALyCvpibGD6g6PRMp8UTStZatPJDzT2/JbFu9mIhU5V4g
   zYML3t12ZU8JGpxxfUk2ObjKbixfSwSmTcWb+s8kgg==
   -----END CERTIFICATE-----
-```
+{% endhighlight %}
 
 
 #### HA Cluster Deployment
 [vmware-disconnected-example/nodes.yml](https://github.com/Red-Hat-SE-RTO/openshift-agent-install/blob/main/examples/vmware-disconnected-example/nodes.yml)
 
-```yaml=
+{% highlight yaml %}
 # Node Counts the installer will expect
 control_plane_replicas: 3
 app_node_replicas: 3
@@ -448,4 +448,4 @@ nodes:
             next-hop-address: "{{ octect }}.1"
             next-hop-interface: ens192
             table-id: 254
-```
+{% endhighlight %}
