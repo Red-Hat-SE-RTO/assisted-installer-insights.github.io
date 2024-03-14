@@ -20,7 +20,7 @@ Git Repository: [https://github.com/Red-Hat-SE-RTO/openshift-agent-install](http
 - Red Hat OpenShift Pull Secret saved to a file: https://console.redhat.com/openshift/downloads#tool-pull-secret
 - Any other Pull Secret for a disconnected registry, joined with the Red Hat OpenShift Pull Secret
 
-**Enable Disk UUID on Virtual Machines**
+**Enable Disk UUID on Virtual Machines**  
 To enable disk UUID on virtual machines, you need to set the `disk.EnableUUID` parameter to `TRUE` in the VMware vSphere configuration. This ensures that the virtual machine's disks are identified by their unique UUIDs, which is required for the OpenShift installer to work correctly.
 
 Follow these steps to enable disk UUID:
