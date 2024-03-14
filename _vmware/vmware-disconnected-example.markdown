@@ -20,6 +20,16 @@ Git Repository: [https://github.com/Red-Hat-SE-RTO/openshift-agent-install](http
 - Red Hat OpenShift Pull Secret saved to a file: https://console.redhat.com/openshift/downloads#tool-pull-secret
 - Any other Pull Secret for a disconnected registry, joined with the Red Hat OpenShift Pull Secret
 
+**Enable Disk UUID on Virtual Machines**
+To enable disk UUID on virtual machines, you need to set the `disk.EnableUUID` parameter to `TRUE` in the VMware vSphere configuration. This ensures that the virtual machine's disks are identified by their unique UUIDs, which is required for the OpenShift installer to work correctly.
+
+Follow these steps to enable disk UUID:
+
+- Open the VMware vSphere client and navigate to the cluster or host where you want to enable disk UUID.
+- Right-click on the cluster or host and select "Edit Settings."
+- In the "Advanced Settings" section, find the `disk.EnableUUID` parameter and set its value to `TRUE`.
+- Click "OK" to save the changes.
+
 ## Usage - Declarative
 
 In the `examples` directory you'll find sample cluster configuration variables.  By defining the cluster in its own folder with the `cluster.yml` and `nodes.yml` files, you can easily template and generate the ABI ISO in one shot with:
@@ -36,7 +46,7 @@ Alternatively, you can perform those steps manually with the instructions below.
 
 ## Usage - Manual
 
-### 1. Templating Agent Based Installer Manifests
+### 1. Templating Agent-Based Installer Manifests
 
 You can quickly and easily template the ABI manifests with the provided `create-manifests.yml` Ansible Playbook.
 
